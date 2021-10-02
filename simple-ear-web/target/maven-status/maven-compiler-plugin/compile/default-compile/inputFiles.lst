@@ -1,0 +1,4 @@
+/home/ubuntu/maven_examples/simple-ear/simple-ear-web/src/main/java/com/packt/cookbook/rest/MemberResourceRESTService.java
+/home/ubuntu/maven_examples/simple-ear/simple-ear-web/src/main/java/com/packt/cookbook/controller/MemberController.java
+/home/ubuntu/maven_examples/simple-ear/simple-ear-web/src/main/java/com/packt/cookbook/rest/JaxRsActivator.java
+/home/ubuntu/maven_examples/simple-ear/simple-ear-web/src/main/java/com/packt/cookbook/util/WebResources.java

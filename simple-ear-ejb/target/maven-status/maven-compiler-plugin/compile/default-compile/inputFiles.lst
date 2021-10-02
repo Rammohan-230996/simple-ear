@@ -1,0 +1,5 @@
+/home/ubuntu/maven_examples/simple-ear/simple-ear-ejb/src/main/java/com/packt/cookbook/util/Resources.java
+/home/ubuntu/maven_examples/simple-ear/simple-ear-ejb/src/main/java/com/packt/cookbook/data/MemberRepository.java
+/home/ubuntu/maven_examples/simple-ear/simple-ear-ejb/src/main/java/com/packt/cookbook/service/MemberRegistration.java
+/home/ubuntu/maven_examples/simple-ear/simple-ear-ejb/src/main/java/com/packt/cookbook/model/Member.java
+/home/ubuntu/maven_examples/simple-ear/simple-ear-ejb/src/main/java/com/packt/cookbook/data/MemberListProducer.java
